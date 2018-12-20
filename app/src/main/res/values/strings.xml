@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">Libmedia Demo</string>
+	<string name="title">This is a demonstration application for the <i><b>Libmedia</b></i> library.</string>
+	<string name="description">
+Videos: To provide a self-contained sample application that runs out-of-the-box, the video samples are
+small asset resources (about 6 seconds).
+	</string>
+	<string name="instructions">
+You may first check that everything works fine, without any cryptographic stuff, with a clear video,
+then use the encrypted sample.
+	</string>
+	<string name="storage">
+Storage: An example of the management of settings related to Volumes.
+	</string>
+
+</resources>

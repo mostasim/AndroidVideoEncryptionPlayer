@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:tools="http://schemas.android.com/tools"
+			  android:layout_width="wrap_content"
+			  android:layout_height="wrap_content"
+			  android:gravity="center_vertical"
+			  android:orientation="horizontal"
+			  tools:context=".StorageActivity">
+
+	<TextView
+		android:id="@+id/txLabel"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+		android:paddingLeft="?android:attr/listPreferredItemPaddingLeft"
+		android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+		android:paddingRight="?android:attr/listPreferredItemPaddingRight"
+		android:saveEnabled="false"/>
+
+	<Button
+		android:id="@+id/btnEditLabel"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:saveEnabled="false"
+		android:text="Edit\nLabel"
+		android:textSize="12sp"
+		tools:ignore="HardcodedText"/>
+
+	<Button
+		android:id="@+id/btnRemoveLabel"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:saveEnabled="false"
+		android:text="Remove\nLabel"
+		android:textSize="12sp"
+		tools:ignore="HardcodedText"/>
+
+	<Button
+		android:id="@+id/btnForget"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:saveEnabled="false"
+		android:text="-"
+		android:textSize="12sp"
+		tools:ignore="HardcodedText"/>
+
+</LinearLayout>

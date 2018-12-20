@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="match_parent"
+	tools:context=".MainActivity"
+	android:orientation="vertical"
+	android:gravity="center_horizontal" >
+
+	<TextView
+		android:text="@string/title"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:padding="16dp" />
+	<TextView
+		android:text="@string/description"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:paddingLeft="8dp" android:paddingRight="8dp" />
+	<TextView
+		android:text="@string/instructions"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:paddingLeft="8dp" android:paddingRight="8dp" />
+	<LinearLayout
+		android:layout_width="wrap_content" android:layout_height="wrap_content" >
+		<Button
+			android:text="VideoView Clear" tools:ignore="HardcodedText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickPlayVideo1" />
+		<Button
+			android:text="VideoView Encrypted" tools:ignore="HardcodedText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickPlayVideo2" />
+	</LinearLayout>
+	<LinearLayout
+		android:layout_width="wrap_content" android:layout_height="wrap_content" >
+		<Button
+			android:text="WebView Clear" tools:ignore="HardcodedText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickPlayWeb1" />
+		<Button
+			android:text="WebView Encrypted" tools:ignore="HardcodedText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickPlayWeb2" />
+	</LinearLayout>
+	<TextView
+		android:text="@string/storage"
+		android:layout_width="wrap_content" android:layout_height="wrap_content"
+		android:gravity="center_horizontal"
+		android:paddingLeft="8dp" android:paddingRight="8dp" />
+	<LinearLayout
+		android:layout_width="wrap_content" android:layout_height="wrap_content" >
+		<Button
+			android:text="Storage Settings" tools:ignore="HardcodedText"
+			android:layout_width="wrap_content" android:layout_height="wrap_content"
+			android:onClick="onClickStorage" />
+	</LinearLayout>
+
+</LinearLayout>

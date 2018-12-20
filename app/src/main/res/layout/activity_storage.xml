@@ -1,0 +1,12 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".StorageActivity" >
+
+	<!-- "Each fragment requires a unique identifier that the system can use to restore the fragment if the activity is restarted" -->
+	<fragment android:name="com.example.libmedia.demo.video.StorageSettingsFragment"
+		android:id="@+id/frgStorage"
+		android:layout_width="match_parent" android:layout_height="match_parent" />
+
+</LinearLayout>

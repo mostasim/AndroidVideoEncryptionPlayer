@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:support-v4:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\db83fb6ff1404db89e27ce92dc1deffe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3f41dd701e2dcee96e064236b0624d4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c47faefc5e44e39dd0b29877c8c861ea\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8e0cd4b3a70e0859d2beb67b2ab363d6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60731b9e4b65a886683455606843d4f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aa7bcc7cb87fc4c750e2e5acc0cd2e41\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\579b9a0be6b49b6a982c6fa03fc80125\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ab42772d243d291a0afe34b2a0541816\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\255cc4c79e985992aa7ce52dca8eb71e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c2b49dfd4b85d0946e0520a49ef5d5b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\550f4151f822e3afb108ce876017a6a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ea4f3f59455c7c5be5799f1f36d100b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5ec34eb0f862666d1027fd91733dc9f3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\53cf9841a2b0fa158b2003cb2118eeb4\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\045d7e1d9926d71e1c206570e24dc676\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db5124e5cdf0abf21dc68668aea6dd30\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea4a3e358ea4fca95420dc3fa52632e5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\53460575c498cd749990973b07cf2042\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8b4d6657e33f3a6b72075316c45db9a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4b7ad78edaba0c361e41b9992acd91aa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\435c52ee67d97f4d874ec791826bc298\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a11deab084806e8ef5a280d1c556f0b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe56b138783a567e2468aae199044607\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0d049e2c7bcdf05476543881b26d1d6\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:6:2-64
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:6:19-61
+application
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:8:5-40:19
+MERGED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\53cf9841a2b0fa158b2003cb2118eeb4\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\53cf9841a2b0fa158b2003cb2118eeb4\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:12:9-40
+	android:networkSecurityConfig
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:13:9-69
+activity#com.example.libmedia.demo.video.MainActivity
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:16:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.libmedia.demo.video.VideoActivity1
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:21:9-23:80
+	android:theme
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:23:13-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:22:13-43
+activity#com.example.libmedia.demo.video.VideoActivity2
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:24:9-26:80
+	android:theme
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:26:13-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:25:13-43
+activity#com.example.libmedia.demo.video.WebActivity1
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:27:9-29:80
+	android:theme
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:29:13-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:28:13-41
+activity#com.example.libmedia.demo.video.WebActivity2
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:30:9-32:80
+	android:theme
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:32:13-77
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:31:13-41
+activity#com.example.libmedia.demo.video.StorageActivity
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:33:9-34:47
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:34:13-44
+meta-data#fr.maxcom.libmedia.apiKey
+ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:37:9-38:172
+	android:value
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:38:13-169
+	android:name
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml:37:20-60
+uses-sdk
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v4:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\db83fb6ff1404db89e27ce92dc1deffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\db83fb6ff1404db89e27ce92dc1deffe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3f41dd701e2dcee96e064236b0624d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\3f41dd701e2dcee96e064236b0624d4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c47faefc5e44e39dd0b29877c8c861ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c47faefc5e44e39dd0b29877c8c861ea\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8e0cd4b3a70e0859d2beb67b2ab363d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\8e0cd4b3a70e0859d2beb67b2ab363d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60731b9e4b65a886683455606843d4f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\60731b9e4b65a886683455606843d4f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aa7bcc7cb87fc4c750e2e5acc0cd2e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\aa7bcc7cb87fc4c750e2e5acc0cd2e41\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\579b9a0be6b49b6a982c6fa03fc80125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\579b9a0be6b49b6a982c6fa03fc80125\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ab42772d243d291a0afe34b2a0541816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\ab42772d243d291a0afe34b2a0541816\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\255cc4c79e985992aa7ce52dca8eb71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\255cc4c79e985992aa7ce52dca8eb71e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c2b49dfd4b85d0946e0520a49ef5d5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\c2b49dfd4b85d0946e0520a49ef5d5b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\550f4151f822e3afb108ce876017a6a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\550f4151f822e3afb108ce876017a6a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ea4f3f59455c7c5be5799f1f36d100b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\4ea4f3f59455c7c5be5799f1f36d100b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5ec34eb0f862666d1027fd91733dc9f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\5ec34eb0f862666d1027fd91733dc9f3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\a0a3ecf3769bc6dda2fa88729284afec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\53cf9841a2b0fa158b2003cb2118eeb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\53cf9841a2b0fa158b2003cb2118eeb4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\045d7e1d9926d71e1c206570e24dc676\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\045d7e1d9926d71e1c206570e24dc676\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db5124e5cdf0abf21dc68668aea6dd30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\db5124e5cdf0abf21dc68668aea6dd30\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea4a3e358ea4fca95420dc3fa52632e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\ea4a3e358ea4fca95420dc3fa52632e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\53460575c498cd749990973b07cf2042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\53460575c498cd749990973b07cf2042\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8b4d6657e33f3a6b72075316c45db9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8b4d6657e33f3a6b72075316c45db9a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4b7ad78edaba0c361e41b9992acd91aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\4b7ad78edaba0c361e41b9992acd91aa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\435c52ee67d97f4d874ec791826bc298\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\435c52ee67d97f4d874ec791826bc298\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a11deab084806e8ef5a280d1c556f0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7a11deab084806e8ef5a280d1c556f0b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe56b138783a567e2468aae199044607\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\fe56b138783a567e2468aae199044607\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0d049e2c7bcdf05476543881b26d1d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] E:\Program\Android\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\c0d049e2c7bcdf05476543881b26d1d6\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Downloads\Compressed\Libmedia-3.2.2-Demo-2.1\LibmediaDemo\app\src\main\AndroidManifest.xml
